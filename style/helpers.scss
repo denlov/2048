@@ -72,13 +72,6 @@
   }
 }
 
-<<<<<<< refs/remotes/origin/gh-pages
-// Appearance
-@mixin appearance($args...) {
-  -webkit-appearance: $args;
-  -moz-appearance: $args;
-  appearance: $args;
-=======
 // Clearfix
 @mixin clearfix {
   &:after {
@@ -86,5 +79,4 @@
     display: block;
     clear: both;
   }
->>>>>>> restyle new game button to put it on the right side of the introduction
 }
